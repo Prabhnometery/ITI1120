@@ -1,0 +1,24 @@
+Python 3.7.2 (v3.7.2:9a3ffc0492, Dec 24 2018, 02:44:43) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=== RESTART: /Users/prabhsingh/Desktop/Assignment 4/a4_part1_300057572.py ===
+>>> largest_34([1000, 1, 100, 2, 99, 200,-100])
+199
+>>> largest_third([3,1,6,8,10,9,2])
+27
+>>> largest_third([3,1,6,8,10,7,5,9,2])
+34
+>>> third_at_least([1,1,1,2,3])
+1
+>>> third_at_least([1,1,1,2,3,5,6,7,7,7,7,])
+>>> sum_tri([1, 5, 8, 2, 6, 55, 90],103)
+True
+>>> sum_tri([-1, 1, 5, 8, 2, 6] ,-3)
+True
+>>> sum_tri([1, 1, 5, 8, 2, 6] ,1000)
+False
+>>> 
+sum_tri([-10,2] ,-18)
+True
+>>> 

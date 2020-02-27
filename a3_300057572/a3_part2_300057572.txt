@@ -1,0 +1,39 @@
+#Family name: Prabh Simran Singh Badwal
+# Student number: 300057572
+# Course: IT1 1120
+# Assignment Number 3 Part 2 (txt)
+
+Python 3.7.2 (v3.7.2:9a3ffc0492, Dec 24 2018, 02:44:43) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: /Users/prabhsingh/Desktop/Assignment 3 (Python)/a3_part2_300057572.py 
+Jack of Spades
+Jack of Diamonds
+King of Hearts
+4 of Clubs
+Number of picks : 4
+>>> 
+ RESTART: /Users/prabhsingh/Desktop/Assignment 3 (Python)/a3_part2_300057572.py 
+7 of Spades
+7 of Diamonds
+9 of Hearts
+4 of Clubs
+Number of picks : 7
+>>> 
+ RESTART: /Users/prabhsingh/Desktop/Assignment 3 (Python)/a3_part2_300057572.py 
+3 of Spades
+4 of Diamonds
+Ace of Hearts
+10 of Clubs
+Number of picks : 9
+>>> 
+ RESTART: /Users/prabhsingh/Desktop/Assignment 3 (Python)/a3_part2_300057572.py 
+8 of Spades
+10 of Diamonds
+4 of Hearts
+Jack of Clubs
+Number of picks : 10
+>>> 
+
+

@@ -1,0 +1,113 @@
+Python 3.7.2 (v3.7.2:9a3ffc0492, Dec 24 2018, 02:44:43) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+============== RESTART: /Users/prabhsingh/Downloads/midterm1.py ==============
+This program reads exam/homework scores and reports your overall course grade.
+Midtem 1: 
+Weight (0-100)? 10
+Score earned? 78
+Were scores shifted (1=yes, 2=no) ? 2
+Total points = 78 / 100
+Weighted score = 7.8 / 10
+
+Midtem 2: 
+Weight (0-100)? 10
+Score earned? 84
+Were scores shifted (1=yes, 2=no) ? 2
+Total points = 84 / 100
+Weighted score = 8.4 / 10
+
+Final: 
+Weight (0-100)? 30
+Score earned? 95
+Were scores shifted (1=yes, 2=no) ? 1
+Score shift ? 10
+Total points = 100 / 100
+Weighted score = 30.0 / 30
+
+Homework:
+Weight(0-100)? 40
+Number of assignments? 3
+Assignment 1 score? 14
+Assignment 1 max? 15
+Assignment 2 score? 17
+Assignment 2 max? 20
+Assignment 3 score? 19
+Assignment 3 max? 25
+Number of sections attended? 5
+Section points = 15 / 34
+Total points = 65 / 94
+Weighted score = 27.7 / 40
+
+Quizzes: 
+Weight (0-100)? 5
+Total points earned? 12
+Total points possible? 12
+Total points = 12 / 12
+Weighted score = 5.0 / 5
+
+Daily homework: 
+Weight (0-100)? 5
+Total points earned? 5
+Total points possible? 10
+Total points = 5 / 10
+Weighted score = 2.5 / 5
+
+Overall Percentage = 81.4
+Your grade will be at least: B
+<< Great ! Always be a constant learner. >>
+>>> 
+============== RESTART: /Users/prabhsingh/Downloads/midterm1.py ==============
+This program reads exam/homework scores and reports your overall course grade.
+Midtem 1: 
+Weight (0-100)? 20
+Score earned? 0
+Were scores shifted (1=yes, 2=no) ? 1
+Score shift ? 101
+Total points = 100 / 100
+Weighted score = 20.0 / 20
+
+Midtem 2: 
+Weight (0-100)? 30
+Score earned? 50
+Were scores shifted (1=yes, 2=no) ? 1
+Score shift ? 55
+Total points = 100 / 100
+Weighted score = 30.0 / 30
+
+Final: 
+Weight (0-100)? 30
+Score earned? 11
+Were scores shifted (1=yes, 2=no) ? 2
+Total points = 11 / 100
+Weighted score = 3.3 / 30
+
+Homework:
+Weight(0-100)? 0
+Number of assignments? 1
+Assignment 1 score? 0
+Assignment 1 max? 10
+Number of sections attended? 0
+Section points = 0 / 34
+Total points = 0 / 44
+Weighted score = 0.0 / 0
+
+Quizzes: 
+Weight (0-100)? 10
+Total points earned? 2
+Total points possible? 12
+Total points = 2 / 12
+Weighted score = 1.7 / 10
+
+Daily homework: 
+Weight (0-100)? 10
+Total points earned? 0
+Total points possible? 20
+Total points = 0 / 20
+Weighted score = 0.0 / 10
+
+Overall Percentage = 55.0
+Your grade will be at least: F
+<< Failure is a stepping stone to Success ! >>
+>>> 

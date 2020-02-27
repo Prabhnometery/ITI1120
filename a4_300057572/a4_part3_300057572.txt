@@ -1,0 +1,15 @@
+Python 3.7.2 (v3.7.2:9a3ffc0492, Dec 24 2018, 02:44:43) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=== RESTART: /Users/prabhsingh/Desktop/Assignment 4/a4_part3_300057572.py ===
+>>> #Testing Part 3
+>>> #Question 1
+>>> overlap({0, 19, 8, 9, 12, 13, 14, 15}, [0, 19, 2, 4, 5, 9, 10, 11])
+{0, 9, 19}
+>>> #Question 2
+>>> digit_sum(1969)
+25
+>>> digital_root(1969)
+7
+>>> 

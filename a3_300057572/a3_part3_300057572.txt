@@ -1,0 +1,33 @@
+Python 3.7.2 (v3.7.2:9a3ffc0492, Dec 24 2018, 02:44:43) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: /Users/prabhsingh/Desktop/Assignment 3 (Python)/a3_part3_300057572.py 
+(Guess) Enter a letter in word ********* > p
+p is not in the word
+(Guess) Enter a letter in word ********* > r
+r is not in the word
+(Guess) Enter a letter in word ********* > e
+(Guess) Enter a letter in word e**e**e** > e
+e is not in the word
+(Guess) Enter a letter in word e**e**e** > x
+(Guess) Enter a letter in word ex*e**e** > l
+(Guess) Enter a letter in word ex*elle** > n
+(Guess) Enter a letter in word ex*ellen* > t
+(Guess) Enter a letter in word ex*ellent > c
+Congratulation!!! you guessed excellent , You missed  3 times
+Do you want to continue again ? y or n : y
+(Guess) Enter a letter in word ******** > p
+(Guess) Enter a letter in word p******* > r
+r is not in the word
+(Guess) Enter a letter in word p******* > o
+(Guess) Enter a letter in word po****** > s
+(Guess) Enter a letter in word pos***** > i
+(Guess) Enter a letter in word posi*i** > t
+(Guess) Enter a letter in word positi** > n
+n is not in the word
+(Guess) Enter a letter in word positi** > v
+(Guess) Enter a letter in word positiv* > e
+Congratulation!!! you guessed positive , You missed  2 times
+Do you want to continue again ? y or n : n
+>>> 
