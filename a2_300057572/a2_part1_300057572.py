@@ -1,4 +1,7 @@
-#Family name: Prabh Simran Singh Badwal
+# COPYRIGHT 2019,Prabh Simran Singh Badwal. All rights reserved.
+# Any unauthorised distribution will constitute an infringement of copyright.
+
+# Family name: Prabh Simran Singh Badwal
 # Student number: 300057572
 # Course: IT1 1120[F]
 # Assignment Number 2 Part-1
